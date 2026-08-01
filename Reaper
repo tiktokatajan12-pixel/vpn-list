@@ -1,37 +1,15 @@
-Profile-Title
-Reaper
-Account
-reaper_best
-Subscription-Userinfo
-upload: unlimited | download: 141.0 KB | total: unlimited | expire: 08.08.2026
-Update-Interval
-1h
-Content-Type
-application/json; charset=utf-8
-Support-Url
-http://t.me/help_official_vpnbot
-Announce
-↖️Кнопкаℹ️ покажет информацию по подписке
-Если низкая скорость – попробуйте 🔄 обновить конфигурацию
-🆔reaper_best
-Routing
-(см. ниже)
-Change-User-Agent
-Happ/4.12.0/ios/2606121423535
-Check-Url-Via-Proxy
-https://cp.cloudflare.com/generate_204
-1
-Ping-Result
-time
-Ping-Type
-proxy
-Profile-Web-Page-Url
-https://a.my-keyboards.shop/cart/deNA1waykK7uagJ5
-Providerid
-McAs4Oiy
-Sub-Expire
-1
-Sub-Expire-Button-Link
-https://t.me/official_vpnbot?start=cabinet
-Sub-Info-Color
-red
+profile-title: Reaper VPN
+subscription-userinfo: upload=0; download=836763648; total=21474836480; expire=1786147200
+update-interval: 1h
+content-type: application/json; charset=utf-8
+support-url: https://t.me/reaper_best
+announce: Expires time: 7days🚀
+Limit:20Gb🚀
+change-user-agent: Happ/4.12.0/ios/2606121423535
+check-url-via-proxy: http://www.gstatic.com/generate_204
+ping-result: time
+ping-type: tcp
+profile-web-page-url: https://t.me/reaper_best
+sub-expire-button-link: https://t.me/official_vpnbot?start=cabinet
+
+vless://9e25b231-f5e8-4a64-99cc-eb4cb30fec62@de.oneclickvps.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de.oneclickvps.ru&fp=qq&pbk=m6X2_QbKUWAY1tIMWDJoqauPMTFG7FudYL4hG2sp7XU&sid=b878ae6472188818&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AAGermany-%231
