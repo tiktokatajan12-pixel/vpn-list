@@ -1,5 +1,19 @@
-Profile-Title: base64:VmlQIC0gUmVhcGVy
-Subscription-Userinfo: upload=0; download={ANLIK_KULLANIM_BYTE}; total=107374182400; expire=0
+#profile-title: ViP - Reaper
+#profile-update-interval: 1
+#profile-web-page-url: 
+#support-url: 
+#announce: base64:S8O2bWVrIGdlcmVrIGJvbHNhICDigJQgZ29sZGF3IGVsbXlkYW1hIHRhw715bi4gClluYW7DvWFuZHlnecWIeXogw7zDp2luIHNhZyBib2x1xYghIEhpbCB3ZSB0aXpsaWdpIHNhw71sYWR5xYh5ei4=
+#subscriptions-sort-type: ping
+#subscription-pin: true
+#subscription-auto-update-open-enable: false
+#subscriptions-collapse: false
+#ping-result: time
+#hide-settings: true
+#ping-type: tcp
+#check-url-via-proxy: http://cp.cloudflare.com/generate_204
+#profile-icon: https://telegram.org/img/t_logo.png
+#subscription-userinfo: upload=0; download=37110240554; total=0
 
 vless://69ff5bc5-6052-4ae9-85ce-2a03f431363a@135.106.225.34:880?encryption=mlkem768x25519plus.native.0rtt.6Hr-sa_vTzy6TgzZaMBHTb9tT8KoST0tm2GuBklPQHM&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AAGerman%20%7C%20ViP
-ss://chacha20-ietf-poly1305:6Omq1zZIptZAk08iewZ6lAs_EjXodos9
+ss://chacha20-ietf-poly1305:6Omq1zZIptZAk08iewZ6lAs_EjXodos9@135.106.225.170:770#%F0%9F%87%A6%F0%9F%87%BFBaku%20%E2%80%A2%20Game%F0%9F%8E%AE
+ss://chacha20-ietf-poly1305:6Omq1zZIptZAk08iewZ6lAs_EjXodos9@135.106.225.146:770#%F0%9F%87%B7%F0%9F%87%BAMoscow%20%E2%80%A2%20VIP%F0%9F%8E%AE
